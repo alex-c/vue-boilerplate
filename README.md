@@ -1,6 +1,6 @@
 # vue-boilerplate
 
-> A simple Vue 2.0 Webpack & `vue-loader` setup for quick prototyping. Note this template is not suitable for production - for that you may want to use the [full webpack template](https://github.com/vuejs-templates/webpack).
+> A simple Vue 2.0 Webpack & `vue-loader` setup for quick prototyping. Incldes SASS/SCSS, `vuex` and `vue-router`.
 
 ### Usage
 
@@ -19,5 +19,3 @@ $ npm run dev
 - `npm run dev`: Webpack + `vue-loader` with proper config for source maps & hot-reload.
 
 - `npm run build`: build with HTML/CSS/JS minification.
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader). Also check out the [breaking changes in vue-loader@9.0.0](https://github.com/vuejs/vue-loader/releases/tag/v9.0.0).
